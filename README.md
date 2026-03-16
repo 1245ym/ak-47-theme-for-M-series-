@@ -1,6 +1,7 @@
-# ak-47-theme-for-M-series-
+# ak-47-theme-for-M-series-(NOT READY YET)
+
 cool and modern ak-47 theme for macOS
-TO SEE HOW YOUR DEKTOP WILL LOOK AFTER GO TO AK-47 THEME.PNG,AND IF YOU WANT TO SEE MY SPECS GO TO INFO.PNG
+TO SEE HOW YOUR DEKTOP WILL LOOK AFTER GO TO AK-47 THEME.PNG,AND IF YOU WANT TO SEE MY SPECS GO TO INFO.PNG 
 
 TOOLS NEEDED:Ubersicht,Raycast,ubar,visual code studio  or text edit (recommended but optional)
 FIRST:INSTALL UBERSICH
